@@ -209,6 +209,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
  -->
 -----
-Credits: [Abhishek Kasera](https://github.com/Mdshahbazalam6)
+Credits: [Md Shahbaz Alam](https://github.com/Mdshahbazalam6)
 
 Last Edited on: 12/04/2022
