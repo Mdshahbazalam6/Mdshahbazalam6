@@ -1,6 +1,8 @@
+<div>
+	<h1 align="center">Hi , I'm Md Shahbaz Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	<p align="center"><img  width=900 height=350  src='https://img.freepik.com/free-vector/recruitment-web-vertical-banner-concept-full-stack-developer-needed-young-man-working-laptop_625536-234.jpg?size=626&ext=jpg&ga=GA1.2.1220125097.1656511271' alt='Banner' /></p>
+</div>
 
-<img  style='width:'100vw',height:'30vh'' src='https://tse4.mm.bing.net/th?id=OIP.-y8aMEe5GSU9oPux7FtpKgHaDt&pid=Api&P=0&w=382&h=191' alt='Banner' />
-<h1 align="center">Hi , I'm Md Shahbaz Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mern+Stack+Developer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
