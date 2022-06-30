@@ -1,6 +1,6 @@
 <div>
 	<h1 align="center">Hi , I'm Md Shahbaz Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	<p align="center"><img  width=900 height=350  src='https://img.freepik.com/free-vector/recruitment-web-vertical-banner-concept-full-stack-developer-needed-young-man-working-laptop_625536-234.jpg?size=626&ext=jpg&ga=GA1.2.1220125097.1656511271' alt='Banner' /></p>
+	<p align="center"><img  width=700 height=300  src='https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966' alt='Banner' /></p>
 </div>
 
 
