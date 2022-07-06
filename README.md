@@ -27,7 +27,7 @@
 - Position to work on enhancing the product experience.
 - 🤔 I’m looking to collaborate with other content creators;<br/>
 - 🌱 I’m currently exploring Web Development;
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1fhORzlb8wjhSFMkrKveL_-F0PAhoylfK).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1fhORzlb8wjhSFMkrKveL_-F0PAhoylfK) and [PORTFOLIO](https://drive.google.com/drive/folders/1fhORzlb8wjhSFMkrKveL_-F0PAhoylfK).
 - :nerd_face: Always `learning new things`
 
 <br>
